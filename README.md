@@ -1,10 +1,13 @@
-<p align="center">
-    <a href="https://en.wikipedia.org/wiki/List_of_debuggers">
-      <img width="40%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Windows.svg"
-    </a>
-</p>
+<div align="center">
+    <p align="center">
+        <a href="https://wikipedia.org/wiki/List_of_debuggers">
+          <img width="35%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Windows.svg" />
+        </a>
+    </p>
 
-# Awesome Windows Debuggers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** Windows Debuggers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)]()
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/debugging/new/)
